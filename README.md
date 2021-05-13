@@ -1,2 +1,2 @@
 # srhredteam
-ADB Project Connect
+Advanced Database Project Connect social media application.
