@@ -1,2 +1,4 @@
-# srhredteam
-Advanced Database Project Connect social media application.
+
+```
+Chat Application with storage system.
+```
