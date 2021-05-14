@@ -1,0 +1,12 @@
+.sidebar {
+  padding: 25px 10px;
+  flex: 0.33;
+}
+.email {
+  margin-left: 58px;
+  font-size: small;
+}
+.link {
+  text-decoration: none;
+  color: inherit;
+}
